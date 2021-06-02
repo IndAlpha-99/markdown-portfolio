@@ -1,4 +1,5 @@
 :heart: I love Valorant
+
 1. Sniper
 2. Pistol
 3. SMG
@@ -6,3 +7,4 @@
    2. Stinger
 * AR
   * Phantom
+  * Vandal
